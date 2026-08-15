@@ -1,0 +1,46 @@
+<svg width="1200" height="250" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="250" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#0B0712"/>
+    <stop offset="0.52" stop-color="#120A20"/>
+    <stop offset="1" stop-color="#1E0D35"/>
+  </linearGradient>
+  <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#8B5CF6" stop-opacity="0.75"/>
+    <stop offset="1" stop-color="#A78BFA" stop-opacity="0.12"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="250" rx="26" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="248" rx="25" stroke="#8B5CF6" stroke-opacity="0.22"/>
+
+<text x="52" y="48" fill="#F5F3FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700">SYSTEM SIGNAL</text>
+<text x="1148" y="48" text-anchor="end" fill="#A78BFA" font-family="JetBrains Mono,Consolas,monospace" font-size="14">t1k://online</text>
+
+<g>
+  <rect x="48" y="76" width="252" height="126" rx="18" fill="#111827" fill-opacity="0.62" stroke="url(#stroke)"/>
+  <text x="70" y="111" fill="#8B5CF6" font-family="JetBrains Mono,Consolas,monospace" font-size="13" font-weight="700">FOCUS</text>
+  <text x="70" y="153" fill="#F5F3FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="800">LOCAL AI</text>
+  <text x="70" y="181" fill="#9CA3AF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">models · tools · workflows</text>
+</g>
+
+<g>
+  <rect x="332" y="76" width="252" height="126" rx="18" fill="#111827" fill-opacity="0.62" stroke="url(#stroke)"/>
+  <text x="354" y="111" fill="#8B5CF6" font-family="JetBrains Mono,Consolas,monospace" font-size="13" font-weight="700">BUILD</text>
+  <text x="354" y="153" fill="#F5F3FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="800">AUTOMATION</text>
+  <text x="354" y="181" fill="#9CA3AF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">less clicking · more shipping</text>
+</g>
+
+<g>
+  <rect x="616" y="76" width="252" height="126" rx="18" fill="#111827" fill-opacity="0.62" stroke="url(#stroke)"/>
+  <text x="638" y="111" fill="#8B5CF6" font-family="JetBrains Mono,Consolas,monospace" font-size="13" font-weight="700">STYLE</text>
+  <text x="638" y="153" fill="#F5F3FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="800">PURPLE / DARK</text>
+  <text x="638" y="181" fill="#9CA3AF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">minimal · clean · intentional</text>
+</g>
+
+<g>
+  <rect x="900" y="76" width="252" height="126" rx="18" fill="#111827" fill-opacity="0.62" stroke="url(#stroke)"/>
+  <text x="922" y="111" fill="#8B5CF6" font-family="JetBrains Mono,Consolas,monospace" font-size="13" font-weight="700">STATUS</text>
+  <text x="922" y="153" fill="#F5F3FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="27" font-weight="800">SHIPPING</text>
+  <text x="922" y="181" fill="#9CA3AF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">build · break · learn · repeat</text>
+</g>
+</svg>
