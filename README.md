@@ -13,7 +13,9 @@
 
 </div>
 
----
+<br/>
+
+<img src="./assets/dashboard.svg" width="100%" alt="t1k dashboard" />
 
 ### ✦ about me
 
@@ -29,7 +31,7 @@ focus:
 currently:
   building: useful things
   learning: "whatever the project needs"
-  vibe: "dark / purple / minimal / fast"
+  philosophy: "make it useful, then make it beautiful"
 ```
 
 ### ✦ stack
@@ -47,23 +49,14 @@ currently:
 
 </div>
 
-### ✦ stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=t1ktakdev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t1ktakdev&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
-
-</div>
-
 ### ✦ contribution flow
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/t1ktakdev/t1ktakdev/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/t1ktakdev/t1ktakdev/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/t1ktakdev/t1ktakdev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/t1ktakdev/t1ktakdev/gh-pages/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/t1ktakdev/t1ktakdev/gh-pages/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/t1ktakdev/t1ktakdev/gh-pages/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
@@ -73,6 +66,7 @@ currently:
 ```text
 > experimenting with local AI
 > building a clean coding setup
+> automating boring things
 > turning ideas into actual projects
 ```
 
