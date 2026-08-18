@@ -15,7 +15,7 @@
 
 <br/>
 
-<img src="./assets/dashboard.svg" width="100%" alt="t1k dashboard" />
+<img src="./assets/dashboard.svg" width="100%" alt="t1k developer dashboard" />
 
 ### ✦ about me
 
