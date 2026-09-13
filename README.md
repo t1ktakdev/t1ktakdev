@@ -1,3 +1,5 @@
+[English](README.md) · [Русский](README.ru.md)
+
 # t1k
 
 I build web apps, small developer tools, and automations.
