@@ -1,79 +1,26 @@
-<div align="center">
+# t1k
 
-<img src="./assets/header.svg" width="100%" alt="t1k profile banner" />
+I build developer tools and local-first software, mostly in TypeScript and Rust.
 
-<br/>
+My work is centered on reproducible debugging, explicit state, automation, and Linux/Wayland tooling. I prefer software that stays understandable when something fails: inspectable output, predictable behavior, and clear boundaries between observation and change.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=AI+%E2%80%A2+automation+%E2%80%A2+systems+%E2%80%A2+experiments;clean+interfaces+%2B+powerful+tools;learning+fast+%E2%80%A2+shipping+faster" alt="Typing SVG" />
+## Selected work
 
-<br/>
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [**ReproShot**](https://github.com/t1ktakdev/ReproShot) | Turns a failing command into a local bug-report bundle with logs, Git state, runtime metadata, reproduction helpers, and secret redaction. [npm](https://www.npmjs.com/package/reproshot) | TypeScript · Node.js |
+| [**ReproDeck**](https://github.com/t1ktakdev/ReproDeck) | Evidence-first debugging workbench for verifying code fixes before they are applied to the original repository. | Rust · Tauri · React |
+| [**niri-pip**](https://github.com/t1ktakdev/niri-pip) | Picture-in-Picture and floating-window control for the Niri Wayland compositor. | Rust · Wayland |
 
-[![Profile Views](https://komarev.com/ghpvc/?username=t1ktakdev&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)](https://github.com/t1ktakdev)
-[![Followers](https://img.shields.io/github/followers/t1ktakdev?style=for-the-badge&logo=github&color=111827&labelColor=111827)](https://github.com/t1ktakdev?tab=followers)
+## Working with
 
-</div>
+`TypeScript` · `Rust` · `Node.js` · `React` · `Tauri` · `Git` · `Linux`
 
-<br/>
+## What I care about
 
-<img src="./assets/dashboard.svg" width="100%" alt="t1k developer dashboard" />
+- local-first tools where that keeps data and state easier to reason about
+- tests and verification that describe real behavior, not just demos
+- small CLI and desktop workflows with explicit failure states
+- automation that removes repetitive work without hiding what it changed
 
-### ✦ about me
-
-```yaml
-name: t1k
-focus:
-  - ai & local llms
-  - automation
-  - developer tooling
-  - beautiful interfaces
-  - experiments that feel impossible at first
-
-currently:
-  building: useful things
-  learning: "whatever the project needs"
-  philosophy: "make it useful, then make it beautiful"
-```
-
-### ✦ stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=FACC15)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=60A5FA)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Rust](https://img.shields.io/badge/Rust-111827?style=for-the-badge&logo=rust&logoColor=F97316)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=60A5FA)
-![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F97316)
-![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=60A5FA)
-![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=F5F5F5)
-
-</div>
-
-### ✦ contribution flow
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/t1ktakdev/t1ktakdev/gh-pages/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/t1ktakdev/t1ktakdev/gh-pages/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/t1ktakdev/t1ktakdev/gh-pages/github-contribution-grid-snake-dark.svg">
-</picture>
-
-</div>
-
-### ✦ now
-
-```text
-> experimenting with local AI
-> building a clean coding setup
-> automating boring things
-> turning ideas into actual projects
-```
-
-<div align="center">
-
-<br/>
-
-<sub>✦ less noise. more building. ✦</sub>
-
-</div>
+Most of my current public work is in the repositories above.
