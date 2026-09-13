@@ -1,26 +1,26 @@
 # t1k
 
-I build developer tools and local-first software, mostly in TypeScript and Rust.
+I build web apps, small developer tools, and automations.
 
-My work is centered on reproducible debugging, explicit state, automation, and Linux/Wayland tooling. I prefer software that stays understandable when something fails: inspectable output, predictable behavior, and clear boundaries between observation and change.
+I mostly work with Node.js, Python, and the web. I like turning ideas into usable projects and learning whatever a project needs along the way.
 
 ## Selected work
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [**ReproShot**](https://github.com/t1ktakdev/ReproShot) | Turns a failing command into a local bug-report bundle with logs, Git state, runtime metadata, reproduction helpers, and secret redaction. [npm](https://www.npmjs.com/package/reproshot) | TypeScript · Node.js |
-| [**ReproDeck**](https://github.com/t1ktakdev/ReproDeck) | Evidence-first debugging workbench for verifying code fixes before they are applied to the original repository. | Rust · Tauri · React |
-| [**niri-pip**](https://github.com/t1ktakdev/niri-pip) | Picture-in-Picture and floating-window control for the Niri Wayland compositor. | Rust · Wayland |
+| Project | What it does |
+| --- | --- |
+| [**ReproShot**](https://github.com/t1ktakdev/ReproShot) | CLI that turns a failing command into a local bug-report bundle with logs, Git state, runtime metadata, reproduction helpers, and secret redaction. [npm](https://www.npmjs.com/package/reproshot) |
+| [**ReproDeck**](https://github.com/t1ktakdev/ReproDeck) | Desktop debugging workbench for checking code fixes before they are applied to the original repository. |
+| [**niri-pip**](https://github.com/t1ktakdev/niri-pip) | Picture-in-Picture and floating-window control for the Niri Wayland compositor. |
 
-## Working with
+## Main stack
 
-`TypeScript` · `Rust` · `Node.js` · `React` · `Tauri` · `Git` · `Linux`
+`Node.js` · `Python` · `JavaScript` · `HTML` · `CSS` · `Git`
 
-## What I care about
+Some of my projects use other technologies where they fit the problem.
 
-- local-first tools where that keeps data and state easier to reason about
-- tests and verification that describe real behavior, not just demos
-- small CLI and desktop workflows with explicit failure states
-- automation that removes repetitive work without hiding what it changed
+## What I like building
 
-Most of my current public work is in the repositories above.
+- web apps and practical interfaces
+- automation for repetitive tasks
+- small CLI and desktop tools
+- projects that teach me something new while solving a real problem
