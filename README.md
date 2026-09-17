@@ -17,7 +17,7 @@ I mostly work with Node.js, Python, and the web. I like turning ideas into usabl
 
 ## Main stack
 
-`Node.js` · `Python` · `JavaScript` · `HTML` · `CSS` · `Git`
+`Node.js` · `Python` · `JavaScript` · `HTML` · `CSS` · `Git` · `TypeScript` · `Rust` · `...etc`
 
 Some of my projects use other technologies where they fit the problem.
 
