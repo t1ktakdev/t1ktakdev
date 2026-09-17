@@ -17,7 +17,7 @@
 
 ## Основной стек
 
-`Node.js` · `Python` · `JavaScript` · `HTML` · `CSS` · `Git`
+`Node.js` · `Python` · `JavaScript` · `HTML` · `CSS` · `Git` · `TypeScript` · `Rust` · `...etc`
 
 В отдельных проектах использую и другие технологии, если они лучше подходят под задачу.
 
