@@ -1,6 +1,6 @@
 <div align="center">
 
-# t1k
+# solace
 
 **Developer tools · local-first utilities · Niri / Wayland · networking**
 
